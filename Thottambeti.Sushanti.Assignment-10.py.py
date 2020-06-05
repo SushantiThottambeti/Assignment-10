@@ -2,10 +2,10 @@
 File: Python Programming
 Author: Sushanti Thottambeti
 DU ID: 873406925
-Date: 05/24/2020
+Date: 06/05/2020
 Title: Adding Functions to the Stock Problem
 Description: This program creates a line graph with Matplotlib for stock data imported 
-from a JSON file. The graph shows variation in closing price for each stock over time. 
+from a JSON file. The graph shows variation in closing price for each stock over time.Also uploading in GitHub 
 
 """
 
